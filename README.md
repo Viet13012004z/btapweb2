@@ -100,7 +100,7 @@ DEADLINE: 26/10/2025
 
 # 1.Cài đặt Apache web server:
 
-Vào cmd với quyền admin để dừng :
+# Vào cmd với quyền admin để dừng :
 
 <img width="1094" height="630" alt="image" src="https://github.com/user-attachments/assets/7716a252-ab11-4e19-b8d6-a449e09229d0" />
 
@@ -108,26 +108,26 @@ Lên web tải apache24 về sau đó nén:
 
 <img width="872" height="303" alt="image" src="https://github.com/user-attachments/assets/8448d363-be04-41c5-a26d-601f0c43a342" />
 
-Các bước cấu hình:
+# Các bước cấu hình:
 
-Em dùng cổng 8081
+# Em dùng cổng 8081
 
 <img width="281" height="89" alt="image" src="https://github.com/user-attachments/assets/eba2932e-15d8-4142-bedb-af1468fb1189" />
 
 
 <img width="374" height="45" alt="image" src="https://github.com/user-attachments/assets/5d01b5f3-68a0-4bd4-bd7c-08afe807d774" />
 
-Tạo website với domain tên của mình: 
+# Tạo website với domain tên của mình: 
 
 <img width="708" height="687" alt="image" src="https://github.com/user-attachments/assets/0dc12601-0a43-40a3-8491-360df7775a97" />
 
-bên trong folder này sẽ có file index.html để mình code vào đó để hiển thị lên web 
+# Bên trong folder này sẽ có file index.html để mình code vào đó để hiển thị lên web 
 
 <img width="872" height="598" alt="image" src="https://github.com/user-attachments/assets/d4701d85-29e1-414f-8c07-14ebb0cdf752" />
 
 <img width="1103" height="437" alt="image" src="https://github.com/user-attachments/assets/0ec0acda-075f-4d1d-a169-d85bcd99fc99" />
 
-Đây là cấu hình trong Virtual host:
+# Đây là cấu hình trong Virtual host:
 
 <img width="1020" height="803" alt="image" src="https://github.com/user-attachments/assets/acf5dc0c-e6da-4ed5-bab0-10726746f370" />
 
@@ -135,11 +135,8 @@ Và đây là dòng lệnh để bật Virtual host lên( cái này trong cấu 
 
 <img width="486" height="88" alt="image" src="https://github.com/user-attachments/assets/5fba5c00-2f73-49bd-8a5c-923bc5b4ccb8" />
 
-Đây là kết quả hiện thị lên web:
-
-![Uploading image.png…]()
-
+# Đây là kết quả hiện thị lên web:
 
 <img width="1859" height="630" alt="image" src="https://github.com/user-attachments/assets/9404ae13-ceca-4458-9062-76cd6c14a1d5" />
 
-# 2
+# 2. Cài đặt nodejs và nodered => Dùng làm backend:

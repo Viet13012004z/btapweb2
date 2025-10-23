@@ -140,3 +140,23 @@ Và đây là dòng lệnh để bật Virtual host lên( cái này trong cấu 
 <img width="1859" height="630" alt="image" src="https://github.com/user-attachments/assets/9404ae13-ceca-4458-9062-76cd6c14a1d5" />
 
 # 2. Cài đặt nodejs và nodered => Dùng làm backend:
+
+# Đây là các file sau khi làm theo hướng dẫn 
+
+<img width="974" height="650" alt="image" src="https://github.com/user-attachments/assets/fbfbd0ac-28d6-4c9c-b8c2-3bf6dd2c3ae2" />
+
+# Sau khi cài thành công sẽ hiện ra ntn
+
+<img width="1309" height="635" alt="image" src="https://github.com/user-attachments/assets/f30b3618-ea71-494a-9d1a-f538e795f56a" />
+
+# Giao diện Nodejs
+
+<img width="1914" height="1010" alt="image" src="https://github.com/user-attachments/assets/d82cc8ec-f3c3-4fef-b8f6-bc16353559c3" />
+
+# Sau khi cấu hình lại trong note và tải hết thư viện 
+
+<img width="1916" height="950" alt="image" src="https://github.com/user-attachments/assets/e1ce613e-3464-44a2-bac4-505cd73d81db" />
+
+# 2.5. Tạo Api back-end bằng nodejs
+
+<img width="847" height="670" alt="image" src="https://github.com/user-attachments/assets/00dc7065-2c50-4549-a624-281f584132e7" />

@@ -160,6 +160,11 @@ Và đây là dòng lệnh để bật Virtual host lên( cái này trong cấu 
 
 <img width="703" height="831" alt="image" src="https://github.com/user-attachments/assets/8c3f7338-9610-49d5-9ecd-ab88461a1bf4" />
 
+# Function 
+
+<img width="835" height="881" alt="image" src="https://github.com/user-attachments/assets/8c7d920c-4637-4d7e-87d5-a96b18a27220" />
+
+
 # node mssql 
 
 <img width="648" height="846" alt="image" src="https://github.com/user-attachments/assets/f5c4075b-686c-42f9-bcef-69792a0ca637" />

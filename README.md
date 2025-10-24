@@ -110,13 +110,6 @@ Lên web tải apache24 về sau đó nén:
 
 # Các bước cấu hình:
 
-# Em dùng cổng 8081
-
-<img width="281" height="89" alt="image" src="https://github.com/user-attachments/assets/eba2932e-15d8-4142-bedb-af1468fb1189" />
-
-
-<img width="374" height="45" alt="image" src="https://github.com/user-attachments/assets/5d01b5f3-68a0-4bd4-bd7c-08afe807d774" />
-
 # Tạo website với domain tên của mình: 
 
 <img width="708" height="687" alt="image" src="https://github.com/user-attachments/assets/0dc12601-0a43-40a3-8491-360df7775a97" />
@@ -180,3 +173,27 @@ Và đây là dòng lệnh để bật Virtual host lên( cái này trong cấu 
 # http://localhost:1880/timkiem?q=mì Khi nhập đường dẫn này để test api sẽ hiện ra giao diện như sau:
 
 <img width="1439" height="930" alt="image" src="https://github.com/user-attachments/assets/7b31ded3-ce44-4377-8b77-28b589caea2f" />
+
+# Front-end
+# Tạo 3 file ra như hình
+
+<img width="1330" height="535" alt="image" src="https://github.com/user-attachments/assets/4014fd81-9815-4faf-aa85-7dc01177604f" />
+
+# Giao diện Front-end và truy vấn về back-end
+
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/1d0153eb-3e44-42cc-b89c-65a819e4e1db" />
+
+# Kết luận
+# Sau quá trình làm bài tập của thầy và dược thầy hướng dẫn tỉ mỉ chi tiết từng bước em đã rút ra những điều sau:
+- Hiểu quá trình cài đặt phần mềm và thư viện
+   + Qua quá trình thực hành, em đã nắm được các bước cài đặt Node.js, Node-RED và Apache trên Windows.
+   + Hiểu cách thêm các thư viện cần thiết để tương tác với SQL và xử lý HTTP request/response.
+   + Nhờ đó, môi trường phát triển back-end và front-end đã được chuẩn bị đầy đủ và hoạt động ổn định.
+- Hiểu cách sử dụng Node-RED để tạo API back-end
+   + Em đã biết cách tạo HTTP In node để nhận request, kết nối với MySQL node để truy vấn dữ liệu, và sử dụng HTTP Response node để trả kết quả.
+   + Nắm được cách truyền dữ liệu từ front-end lên Node-RED qua GET/POST, xử lý JSON payload và trả về dữ liệu đúng format.
+   + Biết cách debug Node-RED khi API chưa hoạt động, ví dụ 404 hoặc lỗi dữ liệu.
+- Hiểu cách front-end tương tác với back-end
+   + Em đã viết HTML, CSS, JS để tạo form nhập liệu, gửi request đến API Node-RED và nhận JSON trả về.
+   + Biết cách xử lý dữ liệu nhận được: lọc theo từ khóa, hiển thị theo bảng hoặc div, xử lý trường hợp không có kết quả.
+   + Hiểu rõ flow dữ liệu: người dùng nhập → JS gửi request → Node-RED truy vấn SQL → trả JSON → JS hiển thị kết quả.

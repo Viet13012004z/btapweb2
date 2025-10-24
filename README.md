@@ -160,3 +160,23 @@ Và đây là dòng lệnh để bật Virtual host lên( cái này trong cấu 
 # 2.5. Tạo Api back-end bằng nodejs
 
 <img width="847" height="670" alt="image" src="https://github.com/user-attachments/assets/00dc7065-2c50-4549-a624-281f584132e7" />
+
+# node http in, http response
+
+<img width="634" height="862" alt="image" src="https://github.com/user-attachments/assets/71d3f494-4360-4a7f-9be0-413f8d02f455" />
+
+<img width="703" height="831" alt="image" src="https://github.com/user-attachments/assets/8c3f7338-9610-49d5-9ecd-ab88461a1bf4" />
+
+# node mssql 
+
+<img width="648" height="846" alt="image" src="https://github.com/user-attachments/assets/f5c4075b-686c-42f9-bcef-69792a0ca637" />
+
+<img width="629" height="824" alt="image" src="https://github.com/user-attachments/assets/c1b39a0f-49f6-4eaa-9542-361109846931" />
+
+# logic flow 
+
+<img width="1252" height="307" alt="image" src="https://github.com/user-attachments/assets/9e0b3e42-b757-46bb-a62b-a38e9083ca76" />
+
+# http://localhost:1880/timkiem?q=mì Khi nhập đường dẫn này để test api sẽ hiện ra giao diện như sau:
+
+<img width="1439" height="930" alt="image" src="https://github.com/user-attachments/assets/7b31ded3-ce44-4377-8b77-28b589caea2f" />
